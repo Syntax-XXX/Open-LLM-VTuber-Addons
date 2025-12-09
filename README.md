@@ -1,4 +1,11 @@
+# Project Status
+
+I’m sorry — I completely forgot about this project.  
+Development will continue soon, but for now the project is on pause.  
+Thank you for your patience!
+
 <h1 align="center"><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber">Open-LLM-VTuber </a></h1> 
+
 <h1 align="center">NOT OFFICIAL</h1>
 ## Addons
 
